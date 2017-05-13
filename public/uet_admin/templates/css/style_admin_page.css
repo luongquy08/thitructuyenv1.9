@@ -1,0 +1,24 @@
+/*style admin page*/
+@import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css);
+body{margin-top:20px;}
+.fa-fw {width: 2em;}
+
+/*style home tab*/
+.panel-body .btn:not(.btn-block) { width:120px;margin-bottom:10px; }
+/*end style home tab*/
+
+/*panel align center*/
+.col-centered{
+    float: none;
+    margin: 0 auto;
+    padding-top:5px;
+}
+.btn-tab-home{
+    width: 133px !important;
+}
+.btn-logout{
+    color: #333 !important;
+}
+.btn-logout:hover{
+    color: #2a70b8 !important;
+}
